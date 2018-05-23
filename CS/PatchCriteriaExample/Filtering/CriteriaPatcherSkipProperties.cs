@@ -3,7 +3,7 @@ using DevExpress.Data.Filtering.Helpers;
 using System.Collections.Generic;
 
 namespace PatchCriteriaExample.Filtering {
-    public class CriteriaPatcherSkipProperties : ClientCriteriaLazyPatcherBase.AggragatesCommonProcessingBase {
+    public class CriteriaPatcherSkipProperties : ClientCriteriaLazyPatcherBase.AggregatesCommonProcessingBase {
         private readonly IList<string> PropertiesToremove;
 
         private CriteriaPatcherSkipProperties(string propertiesToRemove) {
