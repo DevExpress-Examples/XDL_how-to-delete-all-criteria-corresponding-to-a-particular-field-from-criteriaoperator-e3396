@@ -4,7 +4,7 @@ Imports DevExpress.Data.Filtering.Helpers
 
 Namespace PatchCriteriaExample.Filtering
     Public Class CriteriaPatcherSkipProperties
-        Inherits ClientCriteriaLazyPatcherBase.AggragatesCommonProcessingBase
+    Inherits ClientCriteriaLazyPatcherBase.AggregatesCommonProcessingBase
 
         Private ReadOnly PropertiesToremove As IList(Of String)
 
