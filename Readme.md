@@ -42,7 +42,7 @@ Replaced CriteriaPatcherBase with ClientCriteriaLazyPatcherBase.
 
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XDL_how-to-delete-all-criteria-corresponding-to-a-particular-field-from-criteriaoperator-e3396&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XDL_how-to-delete-all-criteria-corresponding-to-a-particular-field-from-criteriaoperator-e3396&~~~was_helpful=no)
 
